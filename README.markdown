@@ -8,7 +8,7 @@
 
 A year ago, I wrote an algorithm to check the security of passwords, any passwords. I implemented it in Dart, the implementation of which can be found [here](https://angeldollface/securitycheck). I recently decided to rewrite the implementation in ECMA Script, a.k.a. Javascript. I did that, but then decided to make a shiny little web application out of the Javascript implementation. This is that shiny web application. The ES implementation can be found [here](https://github.com/angeldollface/vulcheck). My one true love, having been Python, has shifted to Rust and the implementation of the same algorithm can be found [here](https://angeldollface/flek). :heart:
 
-## DEPLOYED PROJECT ON GITHUB PAGeS :rocket:
+## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
 To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/vcheck)
 
