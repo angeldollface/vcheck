@@ -71,5 +71,5 @@ The app will tell you how high you ranked according to ***VCHECK***'s algorithm 
 
 ## NOTE :scroll:
 
-- *VCrypt :ribbon: :scroll: :lock:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
+- *VCheck :ribbon: :scroll: :lock:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
 - Licensed under the MIT license.
