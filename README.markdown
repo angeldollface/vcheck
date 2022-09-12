@@ -69,6 +69,11 @@ The app will tell you how high you ranked according to ***VCHECK***'s algorithm 
 - Styling finalized.
 - Deployment on GitHub Pages.
 
+### Version 1.1.0
+
+- The Doll Update
+- Updated, published, and uploaded under my new name.
+
 ## NOTE :scroll:
 
 - *VCheck :ribbon: :rocket:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
