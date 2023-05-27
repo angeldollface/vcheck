@@ -89,12 +89,6 @@ export default {
 
 <style lang="scss">
 
-// Loading the remote font.
-@font-face {
-  font-family: 'DotMatrix';
-  src: url('https://blckunicorn.art/assets/fonts/DotMatrix.ttf') format('truetype');
-}
-
 // Setting the app-wide variables.
 $headingFont: 'DotMatrix';
 $mainColor: #C566F5;
