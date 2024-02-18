@@ -10,7 +10,7 @@ A year ago, I wrote an algorithm to check the security of passwords, any passwor
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/vcheck)
+To view a live deployed version of this project, click here: [VIEW](https://angeldollface.boo/vcheck)
 
 ## SET IT UP :inbox_tray:
 
